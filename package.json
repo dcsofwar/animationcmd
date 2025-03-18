@@ -1,0 +1,19 @@
+{
+  "name": "my-node-app",
+  "version": "1.0.0",
+  "description": "Bir Node.js uygulaması",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mz": "^2.7.0",
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "author": "Senin Adın",
+  "license": "MIT"
+}
